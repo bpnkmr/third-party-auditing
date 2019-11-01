@@ -1,7 +1,7 @@
 # third-party-auditing
 [Final Year] Collaboratively worked with a team of 4 to design and develop an auditing scheme for cloud storage which aims at maintaining data integrity along with the confidentiality of user data.
 
-1. SYSTEM MODULES :
+SYSTEM MODULES :
 
 1.1. KEY GENERATION
 In this module, the proposed system will generate key using the SHA-1 Hashing Algorithm. This key is generated after encryption phase. The hash function is used to index the original value or key and then used later each time the data
